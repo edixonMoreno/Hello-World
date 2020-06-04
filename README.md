@@ -1,3 +1,2 @@
 # Hello-World
 Beginning my own path.
-To be a full stack pro...
